@@ -1,5 +1,1 @@
-.idea
-*iml
-gactions
-creds.data
-
+node_modules/
